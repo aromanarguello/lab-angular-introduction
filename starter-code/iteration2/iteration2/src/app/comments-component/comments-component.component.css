@@ -1,0 +1,23 @@
+.comment-header-container {
+  width: 800px;
+  height: 50px;
+  margin: 0 auto;
+  display: flex;
+  border-radius: 30px;
+  background-color: #C4E0ED;
+}
+
+.comment-header {
+  align-self: center;
+  padding-left: 10px;
+  font-family: lato;
+}
+
+.comment-list {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.comment-list li {
+  list-style-type: none;
+}

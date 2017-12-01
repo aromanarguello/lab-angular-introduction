@@ -1,0 +1,24 @@
+.header-text{
+  text-align: center;
+}
+
+.cover-img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  width: 800px;
+  height: 400px;
+}
+
+.blog-text {
+  width: 800px;
+  text-align: center
+}
+
+.blog-text-container {
+  display: flex;
+  justify-content: center;
+}
