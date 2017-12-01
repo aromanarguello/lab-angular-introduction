@@ -1,0 +1,15 @@
+.side-gifs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.side-gifs li {
+  list-style-type: none;
+  text-align: center;
+}
+
+.side-gifs img {
+  width: 300px;
+  height: 300px;
+}
