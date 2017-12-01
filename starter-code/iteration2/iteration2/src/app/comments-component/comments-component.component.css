@@ -21,3 +21,21 @@
 .comment-list li {
   list-style-type: none;
 }
+
+.form-container {
+  width: 800px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: #6CB1F0;
+}
+
+#form{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#form button {
+  margin-bottom: 10px;
+}
